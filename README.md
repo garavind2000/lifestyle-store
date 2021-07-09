@@ -13,6 +13,7 @@ Lifestyle store is the website  where people can purchase the products like came
 
 # Technologies used in project
 
+* IDE:        Netbeans
 * Front-end:  HTML/CSS , Bootstrap
 * Back-end:   PHP (WAMP Server)
 * DataBase:   MySQL (phpMyAdmin)
