@@ -11,3 +11,9 @@ Lifestyle store is the website  where people can purchase the products like came
 * My Cart Module- Chosen products are added to cart for purchase.
 * Purchase Module – To buy the products from cart.
 
+# Technologies used in project
+
+* Front-end:  HTML/CSS , Bootstrap
+* Back-end:   PHP (WAMP Server)
+* DataBase:   MySQL (phpMyAdmin)
+
